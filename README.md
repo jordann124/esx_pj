@@ -4,3 +4,5 @@ PT : Olá, Eu Tenho 16 anos (uma pessoa que fazes scripts como esse) Se este Scr
 By : Jordann 
 
 Discord : https://discord.gg/AkDrAuP
+ 
+Good Luck
