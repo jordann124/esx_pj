@@ -10,7 +10,7 @@ Basicamente é 1 script da polícia judiciária cá em Portugal!
 
 
 # Recurso Necessário
-- [pNotify](https://github.com/ESX-Brasil/pNotify)
+- [Esx_Society](https://github.com/ESX-Org/esx_society)
 
 # Criado por
 - [Código,Traduções - Jordann](https://github.com/jordann124)
